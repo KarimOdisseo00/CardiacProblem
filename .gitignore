@@ -1,0 +1,21 @@
+build/
+
+# CMake and compiler artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.d
+*.a
+*.so
+*.bin
+
+# Solver output
+*.vtu
+*.pvtu
+*.csv
+
+# Local editor files
+.vscode/
+.idea/
